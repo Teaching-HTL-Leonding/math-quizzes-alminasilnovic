@@ -1,0 +1,15 @@
+C:\HTL PRO\034MathQuiz\bin\Debug\net6.0\034MathQuiz.exe
+C:\HTL PRO\034MathQuiz\bin\Debug\net6.0\034MathQuiz.deps.json
+C:\HTL PRO\034MathQuiz\bin\Debug\net6.0\034MathQuiz.runtimeconfig.json
+C:\HTL PRO\034MathQuiz\bin\Debug\net6.0\034MathQuiz.dll
+C:\HTL PRO\034MathQuiz\bin\Debug\net6.0\034MathQuiz.pdb
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.csproj.AssemblyReference.cache
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.AssemblyInfoInputs.cache
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.AssemblyInfo.cs
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.csproj.CoreCompileInputs.cache
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.dll
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\refint\034MathQuiz.dll
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.pdb
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\034MathQuiz.genruntimeconfig.cache
+C:\HTL PRO\034MathQuiz\obj\Debug\net6.0\ref\034MathQuiz.dll
